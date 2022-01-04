@@ -1,0 +1,23 @@
+{
+  "name": "jan7-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "swank --path src --watch --silent --interval 100 --port 8345"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwcz/mhack-jan7-2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwcz/mhack-jan7-2021/issues"
+  },
+  "homepage": "https://github.com/mwcz/mhack-jan7-2021#readme",
+  "devDependencies": {
+    "swank": "1.3.2"
+  }
+}
